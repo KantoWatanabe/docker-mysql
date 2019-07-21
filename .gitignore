@@ -1,0 +1,4 @@
+docker/mysql/init/*
+!.gitkeep
+docker/mysql/data/*
+!.gitkeep
